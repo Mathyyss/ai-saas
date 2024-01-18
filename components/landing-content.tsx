@@ -25,7 +25,7 @@ const testimonials = [
         name: "Elodie",
         avatar: "A",
         title: "Web marketer",
-        description: "So easy to use. The site is beautiful and very intuitive "
+        description: "So easy to use. The website is beautiful and intuitive "
     },
 ]
 
