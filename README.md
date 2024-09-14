@@ -1,2 +1,5 @@
 >> npm run dev
->> npm prisma studio
+>> ------------
+>> npx prisma dbpush
+>> npx prisma generate
+>> npx prisma studio
