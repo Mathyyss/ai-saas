@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "postinstall": "prisma generate"
+    "postinstall": "prisma generate --schema=C:/Users/Mathys/Desktop/ai-saasv2/ai-saas/prisma/schema.prisma"
+    
   },
   "dependencies": {
     "@clerk/nextjs": "^4.30.1",
